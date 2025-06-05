@@ -32,6 +32,12 @@
             ]
           },
           {
+            "group": "Vector DB",
+            "pages": [
+              "milvus"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
