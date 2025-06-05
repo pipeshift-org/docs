@@ -22,6 +22,18 @@
             ]
           },
           {
+            "group": "Training",
+            "pages": [
+              "finetuning"
+            ]
+          },
+          {
+            "group": "Deployment",
+            "pages": [
+              "inference"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
