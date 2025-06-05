@@ -16,9 +16,7 @@
           {
             "group": "Introduction",
             "pages": [
-              "what-is-pipeshift",
-              "quickstart",
-              "development"
+              "what-is-pipeshift"
             ]
           },
           {
